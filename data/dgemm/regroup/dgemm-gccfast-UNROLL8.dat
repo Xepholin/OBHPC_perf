@@ -1,0 +1,6 @@
+UNROLL8 ; MiB/s ; n
+gccfast ; 2993.297 ; 8
+gccfast ; 2143.819 ; 16
+gccfast ; 1230.591 ; 32
+gccfast ; 661.152 ; 64
+gccfast ; 348.095 ; 128

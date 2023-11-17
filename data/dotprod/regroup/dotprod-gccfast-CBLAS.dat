@@ -1,0 +1,15 @@
+CBLAS ; MiB/s ; n
+gccfast ; 2918.816 ; 8
+gccfast ; 3095.749 ; 16
+gccfast ; 3889.421 ; 32
+gccfast ; 5224.851 ; 64
+gccfast ; 4853.132 ; 128
+gccfast ; 4708.378 ; 256
+gccfast ; 10385.310 ; 512
+gccfast ; 10347.216 ; 1024
+gccfast ; 10298.775 ; 2048
+gccfast ; 10243.388 ; 4096
+gccfast ; 10241.292 ; 8192
+gccfast ; 10242.491 ; 16384
+gccfast ; 10238.561 ; 32768
+gccfast ; 10247.223 ; 65536

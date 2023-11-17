@@ -1,0 +1,11 @@
+IEX ; MiB/s
+gcc0 ; 43.381
+gcc1 ; 336.533
+gcc2 ; 262.405
+gcc3 ; 813.386
+gccfast ; 785.837
+clang0 ; 54.644
+clang1 ; 389.900
+clang2 ; 615.913
+clang3 ; 615.570
+clangfast ; 615.311

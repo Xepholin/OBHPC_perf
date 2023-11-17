@@ -1,0 +1,11 @@
+CBLAS ; MiB/s
+gcc0 ; 4336.968
+gcc1 ; 5664.262
+gcc2 ; 5659.319
+gcc3 ; 5666.677
+gccfast ; 5481.047
+clang0 ; 4824.073
+clang1 ; 5755.491
+clang2 ; 5793.997
+clang3 ; 5805.510
+clangfast ; 5801.583

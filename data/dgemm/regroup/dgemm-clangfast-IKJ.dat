@@ -1,0 +1,6 @@
+IKJ ; MiB/s ; n
+clangfast ; 3083.899 ; 8
+clangfast ; 2011.581 ; 16
+clangfast ; 1177.451 ; 32
+clangfast ; 615.160 ; 64
+clangfast ; 315.142 ; 128

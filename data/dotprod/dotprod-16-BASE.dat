@@ -1,0 +1,11 @@
+BASE ; MiB/s
+gcc0 ; 1483.165
+gcc1 ; 11782.890
+gcc2 ; 6899.599
+gcc3 ; 
+gccfast ; 10464.817
+clang0 ; 3332.946
+clang1 ; 7005.405
+clang2 ; 21576.785
+clang3 ; 9607.181
+clangfast ; 8568.684

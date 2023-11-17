@@ -1,0 +1,6 @@
+IEX ; MiB/s ; n
+clangfast ; 1371.594 ; 8
+clangfast ; 2146.120 ; 16
+clangfast ; 1175.684 ; 32
+clangfast ; 615.311 ; 64
+clangfast ; 315.200 ; 128

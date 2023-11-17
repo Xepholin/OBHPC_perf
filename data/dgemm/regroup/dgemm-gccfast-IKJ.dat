@@ -1,0 +1,6 @@
+IKJ ; MiB/s ; n
+gccfast ; 1708.978 ; 8
+gccfast ; 2717.116 ; 16
+gccfast ; 1539.123 ; 32
+gccfast ; 814.311 ; 64
+gccfast ; 454.486 ; 128

@@ -1,0 +1,6 @@
+UNROLL4 ; MiB/s ; n
+clang0 ; 497.023 ; 8
+clang0 ; 259.932 ; 16
+clang0 ; 133.280 ; 32
+clang0 ; 67.007 ; 64
+clang0 ; 33.676 ; 128

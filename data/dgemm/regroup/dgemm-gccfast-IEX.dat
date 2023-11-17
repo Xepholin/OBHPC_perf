@@ -1,0 +1,6 @@
+IEX ; MiB/s ; n
+gccfast ; 3448.211 ; 8
+gccfast ; 2490.805 ; 16
+gccfast ; 1462.712 ; 32
+gccfast ; 785.837 ; 64
+gccfast ; 446.646 ; 128

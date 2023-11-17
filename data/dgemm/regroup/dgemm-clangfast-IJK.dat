@@ -1,0 +1,6 @@
+IJK ; MiB/s ; n
+clangfast ; 898.768 ; 8
+clangfast ; 1306.367 ; 16
+clangfast ; 639.729 ; 32
+clangfast ; 239.627 ; 64
+clangfast ; 61.404 ; 128

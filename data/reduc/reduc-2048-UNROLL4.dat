@@ -1,0 +1,11 @@
+UNROLL4 ; MiB/s
+gcc0 ; 2804.905
+gcc1 ; 10408.027
+gcc2 ; 10431.348
+gcc3 ; 10412.568
+gccfast ; 50338.363
+clang0 ; 2790.668
+clang1 ; 10415.621
+clang2 ; 10410.841
+clang3 ; 10410.829
+clangfast ; 54452.439

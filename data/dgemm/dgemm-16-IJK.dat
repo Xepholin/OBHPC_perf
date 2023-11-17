@@ -1,0 +1,11 @@
+IJK ; MiB/s
+gcc0 ; 136.218
+gcc1 ; 1169.876
+gcc2 ; 672.749
+gcc3 ; 720.190
+gccfast ; 1677.597
+clang0 ; 185.327
+clang1 ; 1159.423
+clang2 ; 1047.223
+clang3 ; 1051.086
+clangfast ; 1306.367

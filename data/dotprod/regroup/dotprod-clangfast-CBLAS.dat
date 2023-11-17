@@ -1,0 +1,15 @@
+CBLAS ; MiB/s ; n
+clangfast ; 2981.264 ; 8
+clangfast ; 3988.077 ; 16
+clangfast ; 4996.319 ; 32
+clangfast ; 4069.820 ; 64
+clangfast ; 4868.061 ; 128
+clangfast ; 4685.631 ; 256
+clangfast ; 10434.834 ; 512
+clangfast ; 10347.858 ; 1024
+clangfast ; 10300.570 ; 2048
+clangfast ; 10247.441 ; 4096
+clangfast ; 10243.962 ; 8192
+clangfast ; 10197.743 ; 16384
+clangfast ; 10239.236 ; 32768
+clangfast ; 10229.340 ; 65536

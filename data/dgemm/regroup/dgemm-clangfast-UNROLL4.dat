@@ -1,0 +1,6 @@
+UNROLL4 ; MiB/s ; n
+clangfast ; 1813.074 ; 8
+clangfast ; 1297.400 ; 16
+clangfast ; 699.382 ; 32
+clangfast ; 367.344 ; 64
+clangfast ; 188.228 ; 128
