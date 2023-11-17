@@ -8,4 +8,4 @@ sortie et de comparer les résultats.
 
 ### USAGE:
             
-    ./gnuplot_generate
+    ./gnuplot_generate.sh
